@@ -54,12 +54,6 @@
    <img width="1578" height="322" alt="image" src="https://github.com/user-attachments/assets/be4ad555-320a-45b4-be0c-cbc92bd13300" />
   </p>
 
-  <h2>⚠️ Disclaimer</h2>
-  <p>
-    This project is for <strong>educational purposes only</strong>.  
-    Do not use it to annoy, harass, or spam others. The author is not responsible for any misuse.
-  </p>
-
   <h2>📂 Project Structure</h2>
   <pre>
   ├── spam_bot.py       # Main script
@@ -68,9 +62,10 @@
   ├── README.html       # Project documentation
   </pre>
 
-  <h2>📜 License</h2>
+  <h2>⚠️ Disclaimer</h2>
   <p>
-    This project is licensed under the <a href="https://opensource.org/licenses/MIT">MIT License</a>.
+    This project is for <strong>educational purposes only</strong>.  
+    Do not use it to annoy, harass, or spam others. The author is not responsible for any misuse.
   </p>
 
 </body>
