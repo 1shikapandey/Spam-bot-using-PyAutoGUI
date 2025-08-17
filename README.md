@@ -3,7 +3,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Spam Bot using PyAutoGUI</title>
 </head>
 <body style="font-family: Arial, sans-serif; line-height: 1.6; margin: 20px;">
 
