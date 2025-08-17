@@ -1,4 +1,3 @@
-# Spam-bot-using-PyAutoGUI
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -51,7 +50,8 @@
     <img src="screenshots/demo.gif" alt="Spam Bot Demo" width="600">
   </p>
   <p align="center">
-    <em>(Add your own screenshot or screen recording here)</em>
+   <img width="1493" height="668" alt="image" src="https://github.com/user-attachments/assets/e7bee558-d87d-40da-a933-4ad79e717f7b" />
+   <img width="1578" height="322" alt="image" src="https://github.com/user-attachments/assets/be4ad555-320a-45b4-be0c-cbc92bd13300" />
   </p>
 
   <h2>⚠️ Disclaimer</h2>
