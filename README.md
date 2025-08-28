@@ -7,10 +7,7 @@
 
   <h1>🤖 Spam Bot using PyAutoGUI</h1>
 
-  <p>
-    This is a simple automation project built with <strong>PyAutoGUI</strong>, a Python library for GUI automation.  
-    The bot types and sends messages repeatedly in any text field or chat application (e.g., WhatsApp, Messenger, Discord) by simulating keyboard events.
-  </p>
+
 
   <h2>✨ Features</h2>
   <ul>
