@@ -65,7 +65,7 @@
   <h2>⚠️ Disclaimer</h2>
   <p>
     This project is for <strong>educational purposes only</strong>.  
-    Do not use it to annoy, harass, or spam others. The author is not responsible for any misuse.
+    Do not use it to annoy, harass, or spam others.
   </p>
 
 </body>
