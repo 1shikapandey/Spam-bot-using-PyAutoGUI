@@ -5,7 +5,7 @@
 </head>
 <body style="font-family: Arial, sans-serif; line-height: 1.6; margin: 20px;">
 
-  <h1>🤖 Spam Bot using PyAutoGUI</h1>
+  <h1>Spam Bot using PyAutoGUI</h1>
 
   <p>
     This is a simple automation project built with <strong>PyAutoGUI</strong>, a Python library for GUI automation.  
