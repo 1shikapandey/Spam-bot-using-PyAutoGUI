@@ -20,7 +20,7 @@
     <li>Lightweight and easy to use.</li>
   </ul>
 
-  <h2>🛠 Requirements</h2>
+  <h2> Requirements</h2>
   <pre>
   Python 3.x
   PyAutoGUI
@@ -43,7 +43,7 @@
     <li>The bot will start typing automatically!</li>
   </ol>
 
-  <h2>🖼 Screenshots / Demo</h2>
+  <h2>Screenshots / Demo</h2>
   <p>Here’s how the bot works in action:</p>
   <p align="center">
     <!-- Replace with your actual screenshot or gif link -->
@@ -54,7 +54,7 @@
    <img width="1578" height="322" alt="image" src="https://github.com/user-attachments/assets/be4ad555-320a-45b4-be0c-cbc92bd13300" />
   </p>
 
-  <h2>📂 Project Structure</h2>
+  <h2>Project Structure</h2>
   <pre>
   ├── spam_bot.py       # Main script
   ├── screenshots/      # Folder containing demo images/gifs
