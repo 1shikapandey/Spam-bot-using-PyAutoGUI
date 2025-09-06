@@ -30,7 +30,7 @@
   pip install pyautogui
   </pre>
 
-  <h2>🚀 Usage</h2>
+  <h2>Usage</h2>
   <ol>
     <li>Clone this repository:
       <pre>git clone https://github.com/your-username/spam-bot-pyautogui.git</pre>
