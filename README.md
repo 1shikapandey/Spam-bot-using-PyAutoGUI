@@ -12,7 +12,7 @@
     The bot types and sends messages repeatedly in any text field or chat application (e.g., WhatsApp, Messenger, Discord) by simulating keyboard events.
   </p>
 
-  <h2>✨ Features</h2>
+  <h2>Features</h2>
   <ul>
     <li>Automates typing and sending messages.</li>
     <li>Customizable message and number of repetitions.</li>
